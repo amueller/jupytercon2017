@@ -16,13 +16,13 @@ If you have a GitHub account, it is probably most convenient if you clone or
 fork the GitHub repository. You can clone the repository by running:
 
 ```bash
-git clone https://github.com/amueller/jupytercon-2017.git
+git clone https://github.com/amueller/jupytercon2017.git
 
 ```
 
 If you are not familiar with git or don’t have an
 GitHub account, you can download the repository as a .zip file by heading over
-to the GitHub repository (https://github.com/amueller/jupytercon-2017) in
+to the GitHub repository (https://github.com/amueller/jupytercon2017) in
 your browser and click the green “Download” button in the upper right.
 
 ![](images/download-repo.png)
